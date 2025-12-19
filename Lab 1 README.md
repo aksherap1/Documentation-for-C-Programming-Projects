@@ -9,9 +9,15 @@ Aanvi Gera: 40f30ba82015be02dc099db010208a41cef59597
 Part 0 (Hello World) \-
 
 Local:  
+
+<img width="495" height="301" alt="Screenshot 2025-12-19 at 3 49 28 PM" src="https://github.com/user-attachments/assets/b51ef982-26c9-4ae7-a77d-4c6ddaf74cb7" />
+
 \-Akshera Paladhi’s output
 
 Serial:  
+
+<img width="618" height="514" alt="Screenshot 2025-12-19 at 3 50 35 PM" src="https://github.com/user-attachments/assets/6468429b-f151-47a3-a028-2b06aca1594a" />
+
 \-Akshera Paladhi’s output
 
 Part 1 \-  
@@ -25,9 +31,18 @@ Last output \- serial \- \[4, 41, 45, 70, 207\]
 \-Akshera Paladhi’s output
 
 Part 2 \-   
+
+<img width="565" height="578" alt="Screenshot 2025-12-19 at 3 51 09 PM" src="https://github.com/user-attachments/assets/21aa1851-87ba-4ad5-9662-bc36c8473dcd" />
+
+
 \-Akshera Paladhi’s output
 
 Part 3 (Extra Credit) \-  
+
+<img width="565" height="578" alt="Screenshot 2025-12-19 at 3 51 33 PM" src="https://github.com/user-attachments/assets/96f44c70-b30a-4ba0-ae82-964088e1a569" />
+
+
+
 \-Akshera Paladhi’s output
 
 Reflections \-
